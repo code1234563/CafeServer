@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|c:\\users\\tgdd\\downloads\\wpf_cafeserver\\cafemvvm\\reports\\hoadonrpt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\reports\\hoadonrpt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|c:\\users\\tgdd\\downloads\\wpf_cafeserver\\cafemvvm\\reports\\hoadonrpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\reports\\hoadonrpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|c:\\users\\tgdd\\downloads\\wpf_cafeserver\\cafemvvm\\viewmodels\\khuvucbanviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\viewmodels\\khuvucbanviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|c:\\users\\tgdd\\downloads\\wpf_cafeserver\\cafemvvm\\models\\xulysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\models\\xulysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\ViewModels\\BanViewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:CafeMVVM\\ViewModels\\BanViewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:CafeMVVM\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhuVucBanViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\ViewModels\\KhuVucBanViewModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\ViewModels\\KhuVucBanViewModels.cs",
+              "ToolTip": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\ViewModels\\KhuVucBanViewModels.cs",
+              "RelativeToolTip": "CafeMVVM\\ViewModels\\KhuVucBanViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:28:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDonRpt.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Reports\\HoaDonRpt.Designer.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Reports\\HoaDonRpt.Designer.cs",
+              "ToolTip": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Reports\\HoaDonRpt.Designer.cs",
+              "RelativeToolTip": "CafeMVVM\\Reports\\HoaDonRpt.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAIAwwIEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:28:17.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDonRpt.cs",
+              "DocumentMoniker": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Reports\\HoaDonRpt.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Reports\\HoaDonRpt.cs",
+              "ToolTip": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Reports\\HoaDonRpt.cs*",
+              "RelativeToolTip": "CafeMVVM\\Reports\\HoaDonRpt.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:28:13.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BanViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "ToolTip": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "RelativeToolTip": "CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:35:42.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XuLySqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Models\\XuLySqlServer.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Models\\XuLySqlServer.cs",
+              "ToolTip": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Models\\XuLySqlServer.cs",
+              "RelativeToolTip": "CafeMVVM\\Models\\XuLySqlServer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:24:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\TGDD\\Downloads\\WPF_CafeServer\\CafeMVVM\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CafeMVVM\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:07:14.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

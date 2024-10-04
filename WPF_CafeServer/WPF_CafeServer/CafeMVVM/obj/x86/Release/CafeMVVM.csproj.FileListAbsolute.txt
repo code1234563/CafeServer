@@ -1,0 +1,446 @@
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\CafeMVVM.exe.config
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\CafeMVVM.exe
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\CafeMVVM.pdb
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Charts.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Data.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Office.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Printing.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.UI.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Xpo.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraEditors.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.Extensions.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignColors.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\WpfPageTransitions.exe
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.CodeParser.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraBars.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraLayout.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.UI.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.Extensions.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPivotGrid.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGrid.v15.2.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\WpfPageTransitions.pdb
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Data.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Office.v15.2.Core.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Printing.v15.2.Core.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.UI.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Xpo.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraEditors.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraBars.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraLayout.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGrid.v15.2.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.csprojResolveAssemblyReference.cache
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\Cafe.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\KhuVucBanTrong.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageBan.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChiTietHoaDon.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChuyenBan.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageDangNhap.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGiamGia.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGopBan.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageHome.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageKhuVuc.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageNen.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageQuanLyTaiKhoan.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageSuaBan.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThongKe.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThucDon.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\ThongBao.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\App.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM_MarkupCompile.cache
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM_MarkupCompile.lref
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\App.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\Cafe.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\KhuVucBanTrong.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageBan.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChiTietHoaDon.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChuyenBan.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageDangNhap.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGiamGia.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGopBan.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageHome.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageKhuVuc.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageNen.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageQuanLyTaiKhoan.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageSuaBan.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThongKe.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThucDon.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\ThongBao.baml
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.g.resources
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.Properties.Resources.resources
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.Reports.HoaDonRpt.resources
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.csproj.GenerateResource.Cache
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.exe.licenses
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.exe
+C:\Users\duyph\Documents\Visual Studio 2015\Projects\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.pdb
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\CafeMVVM.exe.config
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\CafeMVVM.exe
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\CafeMVVM.pdb
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Charts.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Data.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Office.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Printing.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.RichEdit.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Sparkline.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.UI.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Xpo.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraEditors.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGauges.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPrinting.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignColors.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\Newtonsoft.Json.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\WpfPageTransitions.exe
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.CodeParser.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Core.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraBars.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraTreeList.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraRichEdit.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraLayout.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.UI.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.Extensions.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraNavBar.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGrid.v15.2.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\WpfPageTransitions.pdb
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Data.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Office.v15.2.Core.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Printing.v15.2.Core.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.RichEdit.v15.2.Core.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Sparkline.v15.2.Core.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Utils.v15.2.UI.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Xpo.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraEditors.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGauges.v15.2.Core.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPrinting.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\Newtonsoft.Json.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Core.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.Pdf.v15.2.Drawing.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraBars.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraTreeList.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraRichEdit.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraLayout.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.DataAccess.v15.2.UI.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraNavBar.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraGrid.v15.2.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Data.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Data.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Data.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Data.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Utils.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Utils.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Xpo.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Xpo.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\bin\x86\Release\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.csprojResolveAssemblyReference.cache
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\Cafe.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\KhuVucBanTrong.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageBan.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChiTietHoaDon.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChuyenBan.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageDangNhap.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGiamGia.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGopBan.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageHome.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageKhuVuc.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageNen.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageQuanLyTaiKhoan.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageSuaBan.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThongKe.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThucDon.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\ThongBao.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\App.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM_MarkupCompile.cache
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM_MarkupCompile.lref
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\App.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\Cafe.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\KhuVucBanTrong.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageBan.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChiTietHoaDon.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageChuyenBan.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageDangNhap.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGiamGia.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageGopBan.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageHome.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageKhuVuc.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageNen.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageQuanLyTaiKhoan.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageSuaBan.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThongKe.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\PageThucDon.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\Views\ThongBao.baml
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.g.resources
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.Properties.Resources.resources
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.Reports.HoaDonRpt.resources
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.csproj.GenerateResource.Cache
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.exe.licenses
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.exe
+D:\Games\Cafe\WPF_CafeServer\CafeMVVM\obj\x86\Release\CafeMVVM.pdb
